@@ -2,6 +2,9 @@
 
 > Simple CLI program to convert your json files generated with Atlasesd (https://witnessmonolith.itch.io/atlased) to a format that can be read by PhaserJS. By no means is a complete implementation, will be adding features as needed. Pull requests welcomed!
 
+Binary files:
+Head to: https://github.com/GAZ082/atlased_phaserjs_parser/releases
+
 ## Log
 
 - 2024-01-24
